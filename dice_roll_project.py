@@ -1,20 +1,4 @@
-"""import random
-def dice(n):
-        for i in range(n):
-            die = random.randint(1,6)
-            print(die)
-
-while True:
-    choice = input("Do you want to roll again ? (y/n): ").lower()
-    if choice == 'y':
-        int(input("Enter the number of die: "))
-        dice(n)
-    elif choice == 'n':
-        print("Thank you😊")
-        break
-    else:
-        print("Invalid choice")"""
-
+#PYTHON PROGRAM FOR DICE ROLL GAME.
 
 import random
 
